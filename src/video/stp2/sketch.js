@@ -1,5 +1,5 @@
 let video;
-let greyChars = ' .:-=+*#%@';
+let greyChars = '.:-=+*#%@';
 
 function setup() {
   createCanvas(800, 600);
